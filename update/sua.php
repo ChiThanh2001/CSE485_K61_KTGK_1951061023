@@ -26,7 +26,7 @@
                 $reci_id = $_GET['reci_id'];
                 $name = $_POST['name'];
                 $age = $_POST['age'];
-                $bgrb = $_POST['bgrb'];
+                $bgrb = $_POST['bgrp'];
                 $bqnty = $_POST['bqnty'];
                 $sex = $_POST['sex'];
                 $date = $_POST['date'];
